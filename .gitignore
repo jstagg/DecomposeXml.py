@@ -123,3 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+amx.xml
+output.xml
+amx2.xml
+output_base.xml
+output_lines.xml
